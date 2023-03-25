@@ -4,6 +4,6 @@
         android:drawable="@*android:drawable/btn_switch_to_on_mtrl_00003"
         android:state_checked="true" />
     <item
-        android:drawable="@*android:drawable/btn_star_on_disabled_focused_holo_light"
+        android:drawable="@*android:drawable/btn_switch_to_off_mtrl_00003"
         android:state_checked="false" />
 </selector>
