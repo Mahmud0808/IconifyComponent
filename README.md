@@ -4,7 +4,7 @@
 
 ### How to build these Runtime Resource Overlays?
 
-#### There is actually 3 ways to build them into usable overlays.
+#### There are actually 3 ways to build them into usable overlays.
 
 - AAPT Tool:
 
